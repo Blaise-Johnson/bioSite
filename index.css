@@ -173,3 +173,11 @@ main {
     color: #A78B9D;
     text-decoration: underline;
 }
+
+footer {
+    background-color: #4A3B52;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
