@@ -60,3 +60,11 @@ header a:hover {
     font-size: 18px;
     line-height: 32px;
 }
+
+footer {
+    background-color: #4A3B52;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
