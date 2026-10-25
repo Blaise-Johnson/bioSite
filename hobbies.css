@@ -68,3 +68,11 @@ h1 {
     height: 350px;
     object-fit: contain;
 }
+
+footer {
+    background-color: #4A3B52;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
